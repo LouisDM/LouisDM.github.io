@@ -12,7 +12,7 @@ github_repo: "https://github.com/LouisDM/LouisDM.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "厚积薄发，上善若水"
-sidebar-avatar: img/头像2      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/头像2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
